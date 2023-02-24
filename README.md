@@ -20,11 +20,11 @@ To use this repository, simply navigate to the markdown document that correspond
 
 We welcome contributions to this repository! If you want to contribute, please follow these steps:
 
-    Fork the repository.
-    Create a new branch for your changes.
-    Make your changes and commit them.
-    Push your changes to your forked repository.
-    Create a pull request to the original repository.
+- Fork the repository.
+- Create a new branch for your changes.
+- Make your changes and commit them.
+- Push your changes to your forked repository.
+- Create a pull request to the original repository.
 
 ## Syntax
 
